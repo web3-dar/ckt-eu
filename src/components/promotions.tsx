@@ -7,7 +7,7 @@ const promotions = [
   {
     title: 'Cell Phone Protection',
     description:
-      'With CKT Reserved and Trust Bank’s Central Plus Checking, receive up to $800 if your phone is stolen or damaged.',
+      'With CKT Reserved and Trust Bank’s Central Plus Checking, receive up to €800 if your phone is stolen or damaged.',
     buttonText: 'LEARN MORE',
     imageUrl: img1,
   },
